@@ -1,0 +1,21 @@
+.App{
+    padding: 20px 0;
+    width: 64%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+header h2{
+    font-weight: 500;
+    color:#84878A;
+    display: flex;
+    justify-content: center;
+    margin:32px 0;
+}
+
+.line{
+  border: 1px solid #EDEDEF;
+  margin: 25px 0;  
+}
